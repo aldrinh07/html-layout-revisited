@@ -1,0 +1,33 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: darkgrey;
+
+}
+
+.top-box {
+    height: 15%;
+    width: 100%;
+    background-color: dimgray;
+}
+
+/*.bottom-container {*/
+    /*height: 90%;*/
+    /*width: 100%;*/
+    /*background-color: darkgrey;*/
+/*}*/
+
+.center-box {
+    width: 70%;
+    height: 75%;
+    margin: 0 auto;
+    background-color: ghostwhite;
+}
+
+.center-footer {
+    width: 70%;
+    height: 10%;
+    margin: 0 auto;
+    background-color: black;
+}
